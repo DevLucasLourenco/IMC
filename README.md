@@ -1,6 +1,4 @@
 # IMC
-Este algoritmo foi desenvolvido em prol à prova que a faculdade de Engenharia de Software propôs que fosse realizado.
-
 
 ## Explicação:
 
